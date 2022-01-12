@@ -88,7 +88,7 @@
     "gulp-nightwatch": "^0.3.2",
     "istanbul": "^0.4.5",
     "jsdom": "11.9.0",
-    "markdown-it": "^8.4.1",
+    "markdown-it": "^12.3.2",
     "markdown-it-anchor": "^4.0.0",
     "markdown-it-table-of-contents": "^0.3.3",
     "mocha": "^5.1.1",
