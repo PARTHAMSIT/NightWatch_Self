@@ -19,7 +19,7 @@
     "lodash.clonedeep": "^4.5.0",
     "mkdirp": "^0.5.1",
     "pify": "^3.0.0",
-    "selenium-webdriver": "^4.0.0-alpha.4",
+    "selenium-webdriver": "^4.4.0",
     "tmp": "^0.0.33",
     "typescript": "^3.6.2"
   },
